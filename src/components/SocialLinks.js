@@ -40,9 +40,8 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/src/assets/TanmaySharmaResume.pdf",
+      href: "https://docs.google.com/document/d/1kOUcvZ_At_AOHaIO35vtph8SIaxOkr62/edit",
       style: "rounded-br-md",
-      download: true,
     },
   ];
 
