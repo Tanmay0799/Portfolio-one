@@ -30,7 +30,7 @@ const Home = () => {
         </div>
         <div>
           <img
-            src="https://i.pinimg.com/564x/65/3c/75/653c759f23a58107ca0ff57de215d149.jpg"
+            src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXY3MGo1YzFrbzl2dTFrOHEycHVhb2FnaTJ6M3k0NzY4MHFiOWszdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
             alt="img"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
           />
